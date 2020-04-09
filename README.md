@@ -7,5 +7,5 @@
   * `./run_piku`
 * I encountered minor difficulties when copying-and-pasting the SSH key using *vim* while connected to the raspberry pi. I have no outstanding questions or issues.
 
-My Cal Poly username is: meirinbe
-Thank you! :call_me_hand:
+My Cal Poly username is: meirinbe <br>
+Thank you! :call_me_hand: :man_technologist:
