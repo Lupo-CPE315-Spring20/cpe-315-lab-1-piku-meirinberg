@@ -1,19 +1,11 @@
 # CPE 315 Lab 1 -- Piku
 
-## Things to include in your README
+* Michael I. Eirinberg (Mike)
+* Status of lab: Complete.
+* Compilation and execution instructions:
+  * `gcc -o run_piku piku.s`
+  * `./run_piku`
+* I encountered minor difficulties when copying-and-pasting the SSH key using *vim* while connected to the raspberry pi. I have no outstanding questions or issues.
 
-* Your name. Indicate if you go by a nickname.
-* Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
-* Compilation and execution instructions
-  * `gcc -o piku piku.s` or `make`
-  * `./piku`
-* Issues that you encountered along the way, and anything you have questions about.
-
-These README files have a fairly rich _Markdown_ environment. You should use
-markdown syntax to format your README files in such a way that they look
-professional, and are easy to read. Use the 
-[Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
-have fun! :octocat:
-
+My Cal Poly username is: meirinbe
+Thank you! :call_me_hand:
